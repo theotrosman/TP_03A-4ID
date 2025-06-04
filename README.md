@@ -1,48 +1,45 @@
-# TP_03A-4ID
+# 🚀 TP_02A-4ID — Landing Page: Smart Projector
 
-Este es el Trabajo Práctico 03 de la materia Taller de Programación 2 (4ID, ORT Almagro).  
-Se trata de una versión mejorada del TP02, con foco en la experiencia visual y la interactividad.
-
----
-
-## 🧠 Objetivos del TP
-
-- Reforzar conocimientos de HTML y CSS
-- Implementar `hover effects` para mejorar la UI
-- Integrar `iframes` para contenidos embebidos
-- Trabajar con `transiciones`, `posicionamiento` y `estilos avanzados`
-- Mejorar la estructura semántica de la web
+**Proyecto realizado para el TP2 de Arte (ORT - Informática)**  
+Landing page 100% responsive para presentar un producto tech futurista: un proyector inteligente de techo, ideal para experiencias inmersivas en el hogar.
 
 ---
 
-## 🧩 Contenidos principales
+## 🧠 Descripción
 
-- Uso de `:hover` en imágenes, botones y textos
-- Inclusión de contenido externo mediante `<iframe>` (como videos, mapas o HTML externo)
-- Organización del contenido en secciones con estilos mejorados
-- Incorporación de transiciones suaves para mejorar la experiencia del usuario
-- Validación de buenas prácticas de estructura HTML/CSS
+Este sitio fue diseñado para destacar un producto innovador con estética sci-fi, centrado en:
 
----
-
-## 🔧 Tecnologías usadas
-
-- HTML5
-- CSS3
-- Iframes
-- Transiciones
-- Pseudoclases como `:hover`, `:active`, etc.
+- ✅ **Diseño visual atractivo**: estilo minimalista, colores suaves, UI limpia.
+- ✅ **Animaciones sutiles**: efectos al scrollear, transiciones y hover interactions.
+- ✅ **Experiencia fluida**: compatible con modo claro/oscuro.
+- ✅ **Presentación del producto**: render 3D giratorio o estático sin proyecciones activas, para adaptabilidad en distintos contextos.
 
 ---
 
-## 👨‍💻 Autor
+## 🛠️ Tecnologías utilizadas
 
-- Theo Trosman  
-- 4to año Informática – Escuela ORT Almagro  
-- Año lectivo: 2025
+- `HTML5` – Estructura base del sitio
+- `CSS3` – Estilado responsive + animaciones
+- Recursos gráficos: mockups y renders del proyector
 
 ---
 
-## 📝 Licencia
+## 💡 Inspiración estética
 
-Este proyecto es parte del contenido educativo del curso y su uso está destinado únicamente a fines académicos.
+- Landing pages tipo Apple, Nothing, Tesla
+- Futurismo limpio
+- Interfaz adaptable a cualquier UI (transparente y escalable)
+
+---
+
+## 📸 Preview
+
+![screenshot](assets/images/screenshot.png) <!-- Cambiar por imagen real -->
+
+---
+
+## ✨ Autores
+
+**Theo Trosman y Sebastián Calviño**  
+Estudiante de Informática – Escuela ORT (Almagro)  
+> *"Programo con lógica, diseño con estilo y siempre meto un toque de caos creativo."*
