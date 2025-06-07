@@ -8,7 +8,7 @@ Se trata de una versión mejorada del TP02, con foco en la experiencia visual y 
 ## 🧠 Objetivos del TP
 
 - Reforzar conocimientos de HTML y CSS
-- Implementar `hover effects` para mejorar la UI
+- Implementar `hover effects` para mejorar la UI 
 - Integrar `iframes` para contenidos embebidos
 - Trabajar con `transiciones`, `posicionamiento` y `estilos avanzados`
 - Mejorar la estructura semántica de la web
